@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fc67f498-dc61-3ca8-fc55-b38ba24f7b0c": {
+      "ProjectGuid": "fc67f498-dc61-3ca8-fc55-b38ba24f7b0c",
+      "DisplayName": "Unity.VisualStudio.Editor",
+      "ColorIndex": 0
+    },
+    "37e89819-9a13-19ad-4c6c-0cf37a6e64b9": {
+      "ProjectGuid": "37e89819-9a13-19ad-4c6c-0cf37a6e64b9",
+      "DisplayName": "AstarPathfindingProject",
+      "ColorIndex": 1
+    },
+    "ef9ff91d-eacc-5150-be5e-d5f5b978b133": {
+      "ProjectGuid": "ef9ff91d-eacc-5150-be5e-d5f5b978b133",
+      "DisplayName": "Assembly-CSharp",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}
